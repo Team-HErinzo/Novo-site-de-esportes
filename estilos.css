@@ -1,0 +1,23 @@
+:root {
+    --fonte-principal: "Open Sans";
+}
+
+.cabecalho {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    background-color: #ff720d;
+}
+
+.titulo-principal {
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    background-color: #ff720d;
+    font-family: var(--fonte-principal);
+    font-size: larger;
+    color: white;
+}
